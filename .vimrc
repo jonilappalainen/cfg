@@ -3,8 +3,8 @@ set path+=**
 set wildmenu
 set nu
 set paste
+set hidden
 syntax on
-
 
 call plug#begin('~/.vim/plugged')
 
