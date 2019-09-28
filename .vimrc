@@ -10,8 +10,9 @@ call plug#begin('~/.vim/plugged')
 
 Plug '/vim-syntastic/syntastic'
 Plug 'elmcast/elm-vim'
-Plug 'chrisbra/csv.vim'
 Plug 'scrooloose/nerdcommenter'
+Plug 'tpope/vim-fugitive'
+Plug 'airblade/vim-gitgutter'
 
 call plug#end()
 
