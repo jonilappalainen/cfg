@@ -13,11 +13,7 @@ Plug 'elmcast/elm-vim'
 Plug 'scrooloose/nerdcommenter'
 Plug 'tpope/vim-fugitive'
 Plug 'airblade/vim-gitgutter'
+Plug 'https://github.com/ctrlpvim/ctrlp.vim'
 
 call plug#end()
-
-hi CSVColumnEven ctermbg=4 guibg=DarkBlue
-hi CSVColumnOdd ctermbg=5 guibg=DarkMagenta
-hi CSVColumnHeaderEven term=bold ctermbg=4 guibg=DarkBlue
-hi CSVColumnHeaderOdd term=bold ctermbg=5 guibg=DarkMagenta
 
