@@ -17,6 +17,7 @@ Plug 'airblade/vim-gitgutter'
 Plug 'https://github.com/ctrlpvim/ctrlp.vim'
 Plug 'https://github.com/jalvesaq/Nvim-R'
 Plug 'flrnprz/plastic.vim'
+Plug 'editorconfig/editorconfig-vim'
 
 call plug#end()
 
